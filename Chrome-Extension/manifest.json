@@ -1,0 +1,11 @@
+{
+    "name": "Upcoming St. Louis Concerts",
+    "version": "1.0.0",
+    "description": "This is an extension to look up concerts coming to St. Louis",
+    "manifest_version": 3,
+    "author": "David Tsacnaris",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Upcoming St. Louis Concerts"
+    }
+}
